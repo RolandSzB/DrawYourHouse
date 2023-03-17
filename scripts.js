@@ -29,4 +29,10 @@ function draw() {
     circle(175, 500, 15);
     fill("black")
     circle(175, 500, 5);
+
+    //windows
+    fill("lightblue");
+    rect(250, 300, 150, 155);
+    line(250, 375, 400, 375);
+    line(325, 300, 323, 455);
   }
